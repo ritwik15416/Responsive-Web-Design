@@ -3,6 +3,9 @@
 	background-color: #d3d3d3;
 	
 }
+h1{
+	text-decoration: underline;
+}
 #intro{
 	text-align: center;
 }

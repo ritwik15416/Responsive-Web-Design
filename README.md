@@ -1,3 +1,3 @@
 # Tribute-Page
-
-This is a tribute page for Dr. Norman Borlaug. 
+* Project taken from freeCodeCamp: Responsive web design
+* Similar to: https://codepen.io/freeCodeCamp/full/zNqgVx

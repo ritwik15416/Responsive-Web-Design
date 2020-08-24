@@ -1,0 +1,29 @@
+#main{
+	
+	background-color: #d3d3d3;
+	
+}
+h1{
+	text-decoration: underline;
+}
+#intro{
+	text-align: center;
+}
+#image{
+	position: relative;
+	text-align: center;
+	background-color: #fff;
+	padding: 10px 10px;
+}
+#i{
+	display: inline-block;
+}
+.name{
+	display: inline-block;
+}
+#quote{
+	text-align: center;
+}
+p, li{
+	font-size: 20px;
+}

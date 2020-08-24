@@ -1,0 +1,43 @@
+body{
+	margin-left: 25%;
+	margin-right: 25%;
+	text-align: center;
+}
+#form{
+	text-align: center;
+}
+u,i{
+	color: #fff;
+}
+
+#top{
+	text-align: center;
+	padding: 50px;
+	background-color: #000;
+}
+.text{
+	padding: 15px;
+	width: 250px;
+}
+#submit{
+	padding: 20px;
+	
+}
+select{
+	cursor: pointer;
+	height: 30px;
+	width: 100px;
+}
+button{
+	color: green;
+	border-radius: 5px;
+	padding: 10px;
+	cursor: pointer;
+}
+submit :hover{
+	background-color: red;
+}
+#form{
+	background-color: #b2c2ef;
+	padding: 30px;
+}

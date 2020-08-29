@@ -34,9 +34,6 @@ button{
 	padding: 10px;
 	cursor: pointer;
 }
-submit :hover{
-	background-color: red;
-}
 #form{
 	background-color: #b2c2ef;
 	padding: 30px;
